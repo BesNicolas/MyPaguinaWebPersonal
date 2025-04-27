@@ -24,7 +24,7 @@
                 <a href="https://wa.me/+543404527201" class="li-whatsapp-line" target="_blank">
                     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Enviar WhatsApp">
                 </a>
-                <a href="https://github.com/TUUSUARIO" class="li-GitHub-line" target="_blank">
+                <a href="https://github.com/BesNicolas" class="li-GitHub-line" target="_blank">
                     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="Visitar GitHub">
                 </a>
             </div>
